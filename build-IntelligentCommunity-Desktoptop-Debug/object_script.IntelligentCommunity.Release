@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\logindialog.o
+./release\managermanage.o
+./release\workmanage.o
+./release\onnermanage.o
+./release\hrmanage.o
+./release\systemparameter.o
+./release\workerinfo.o
+./release\moc_logindialog.o
+./release\moc_managermanage.o
+./release\moc_workmanage.o
+./release\moc_onnermanage.o
+./release\moc_hrmanage.o
+./release\moc_systemparameter.o
+./release\moc_workerinfo.o
+);

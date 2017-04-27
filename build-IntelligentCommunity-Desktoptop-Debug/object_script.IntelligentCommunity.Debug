@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\logindialog.o
+./debug\managermanage.o
+./debug\workmanage.o
+./debug\onnermanage.o
+./debug\hrmanage.o
+./debug\systemparameter.o
+./debug\workerinfo.o
+./debug\moc_logindialog.o
+./debug\moc_managermanage.o
+./debug\moc_workmanage.o
+./debug\moc_onnermanage.o
+./debug\moc_hrmanage.o
+./debug\moc_systemparameter.o
+./debug\moc_workerinfo.o
+);
